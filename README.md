@@ -8,7 +8,7 @@ I decided to go with one of my favorite languages and frameworks python and Flas
 
 Once the application is open, it will bring you the homepage that displays the two questions.  
 
-In the Navbar there are links that will route you toe the two endpoints.
+In the Navbar there are links that will route you to the two endpoints.
 
 The two endpoints can be reached at **"localhost:5000/answerone"** and **"localhost:5000/answertwo"**.</p><br>
 
