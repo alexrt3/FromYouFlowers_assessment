@@ -15,6 +15,8 @@ Once the repository has been cloned and project has been opened
 
 1) run 'pip install -r requirements.txt' in your terminal
 
+2) type flask run into the terminal and the server should start.
+
 2) You will see '* Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)'.  You can hold control and click the link to open it if you are in vscode.
 
 
