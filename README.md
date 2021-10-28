@@ -24,4 +24,4 @@ __2)__ Next, to start the server use __'flask run'__ into the terminal and the s
 __3)__ You will see '* Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)'.  You can hold control and click the link to open it if you are in vscode.</p>
 
 
-Thank you for your time and consideration, FromYouFlowers!
+<p>Thank you for your time and consideration, FromYouFlowers!</p>
