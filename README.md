@@ -1,4 +1,4 @@
-This is the Web application created for FromYouFlowers's Assessment.
+<p>This is the Web application created for FromYouFlowers's Assessment.
 
 The goal was to create two API endpoints that displayed data based off the two problems provided.
 
@@ -8,19 +8,21 @@ Once the application is open, it will bring you the homepage that displays the t
 
 In the Navbar there are links that will route you toe the two endpoints.
 
-The two endpoints can be reached at "localhost:5000/answerone" and "localhost:5000/answertwo".
+The two endpoints can be reached at "localhost:5000/answerone" and "localhost:5000/answertwo".</p>
 
 
 
-<h4>**RUN PROCEDURE**<h4>
+<h3>RUN PROCEDURE</h3>
 
-Once the repository has been cloned and project has been opened
+<p>Once the repository has been cloned and project has been opened
 
-1) Run **'pip install -r requirements.txt'** in your terminal to install all the required libraries.
+1) Run __'pip install -r requirements.txt'__ in your terminal to install all the required libraries.
 
-2) Next, to start the server use **'flask run'** into the terminal and the server should start.
+2) Next, to start the server use __'flask run'__ into the terminal and the server should start.
 
-2) You will see '* Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)'.  You can hold control and click the link to open it if you are in vscode.
+2) You will see '* Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)'.  You can hold control and click the link to open it if you are in vscode.</p>
+
+
 
 
 Test Cases 1:
