@@ -10,7 +10,7 @@ Once the application is open, it will bring you the homepage that displays the t
 
 In the Navbar there are links that will route you toe the two endpoints.
 
-The two endpoints can be reached at "localhost:5000/answerone" and "localhost:5000/answertwo".</p><br>
+The two endpoints can be reached at **"localhost:5000/answerone"** and **"localhost:5000/answertwo"**.</p><br>
 
 
 <h3>RUN PROCEDURE</h3>
