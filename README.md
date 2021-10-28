@@ -11,7 +11,6 @@ In the Navbar there are links that will route you toe the two endpoints.
 The two endpoints can be reached at "localhost:5000/answerone" and "localhost:5000/answertwo".</p>
 
 
-
 <h3>RUN PROCEDURE</h3>
 
 <p>Once the repository has been cloned and project has been opened
@@ -25,14 +24,14 @@ The two endpoints can be reached at "localhost:5000/answerone" and "localhost:50
 
 
 
-Test Cases 1:
+__Test Cases 1:__
 
 All combinations of $1 including half dollars and not $1 coins should output 292.
 
-<img src="/app/static/img/TestCase1_Input.png" width="450" height="450">    
+<img src="/app/static/img/TestCase1_Input.png" width="500" height="500">    
 
 Output:
-<img src="/app/static/img/TestCase1_Output.png" width="300" height="450">     
+<img src="/app/static/img/TestCase1_Output.png">     
 
 
 
