@@ -1,10 +1,10 @@
 This is the Web application created for FromYouFlowers's Assessment.
 
-The goal was to create two API endpoints that displayed data off the two problems provided.
+The goal was to create two API endpoints that displayed data based off the two problems provided.
 
 I decided to go with one of my favorite languages and frameworks python and Flask for the backend and HTML, CSS, and javascript for the frontend.
 
-Once the application is open, it will bring you the homepage that displays the two questions.  In the Navbar there are links to the two endpoints.
+Once the application is open, it will bring you the homepage that displays the two questions.  In the Navbar there are links that will route you toe the two endpoints.
 The two endpoints can be reached at "localhost:5000/answerone" and "localhost:5000/answertwo".
 
 
