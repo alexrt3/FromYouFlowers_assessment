@@ -15,7 +15,7 @@ The two endpoints can be reached at "localhost:5000/answerone" and "localhost:50
 
 <h3>RUN PROCEDURE</h3>
 
-<p>Once the repository has been cloned and project has been opened
+<p>Once the repository has been cloned and project has been opened:
 
 __1)__ Run __'pip install -r requirements.txt'__ in your terminal to install all the required libraries.
 
