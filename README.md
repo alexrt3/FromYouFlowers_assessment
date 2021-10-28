@@ -17,9 +17,9 @@ The two endpoints can be reached at **"localhost:5000/answerone"** and **"localh
 
 <p>Once the repository has been cloned and project has been opened:
 
-__1)__ Run __'pip install -r requirements.txt'__ in your terminal to install all the required libraries.
+__1)__ Run **'pip install -r requirements.txt'** in your terminal to install all the required libraries.
 
-__2)__ Next, to start the server use __'flask run'__ into the terminal and the server should start.
+__2)__ Next, to start the server use **'flask run'** into the terminal and the server should start.
 
 __3)__ You will see '* Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)'.  You can hold control and click the link to open it if you are in vscode.</p>
 
