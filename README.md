@@ -26,10 +26,11 @@ Once the repository has been cloned and project has been opened
 Test Cases 1:
 
 All combinations of $1 including half dollars and not $1 coins should output 292.
-<p>
-<img src="/app/static/img/TestCase1_Input.png" width="500" height="500">    
 
-<img src="/app/static/img/TestCase1_Output.png" width="500" height="500">     
+<img src="/app/static/img/TestCase1_Input.png" width="450" height="450">    
+
+Output:
+<img src="/app/static/img/TestCase1_Output.png" width="300" height="450">     
 
 
 
