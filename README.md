@@ -1,3 +1,5 @@
+<h2>FromYouFlowers Assessment</h2>
+
 <p>This is the Web application created for FromYouFlowers's Assessment.
 
 The goal was to create two API endpoints that displayed data based off the two problems provided.
@@ -15,29 +17,11 @@ The two endpoints can be reached at "localhost:5000/answerone" and "localhost:50
 
 <p>Once the repository has been cloned and project has been opened
 
-1) Run __'pip install -r requirements.txt'__ in your terminal to install all the required libraries.
+__1)__ Run __'pip install -r requirements.txt'__ in your terminal to install all the required libraries.
 
-2) Next, to start the server use __'flask run'__ into the terminal and the server should start.
+__2)__ Next, to start the server use __'flask run'__ into the terminal and the server should start.
 
-2) You will see '* Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)'.  You can hold control and click the link to open it if you are in vscode.</p>
-
-
-
-
-__Test Cases 1:__
-
-All combinations of $1 including half dollars and not $1 coins should output 292.
-
-<img src="/app/static/img/TestCase1_Input.png" width="500" height="500">    
-
-Output:
-<img src="/app/static/img/TestCase1_Output.png">     
-
-
-
-
-
-
+__3)__ You will see '* Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)'.  You can hold control and click the link to open it if you are in vscode.</p>
 
 
 Thank you for your time and consideration, FromYouFlowers!
