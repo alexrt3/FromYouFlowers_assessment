@@ -1,6 +1,6 @@
 This is the Web application created for FromYouFlowers's Assessment.
 
-The goal was to create two API endpoints that displayed data off the two problems provided.
+The goal was to create two API endpoints that displayed data based off the two problems provided.
 
 I decided to go with one of my favorite languages and frameworks python and Flask for the backend and HTML, CSS, and javascript for the frontend.
 
